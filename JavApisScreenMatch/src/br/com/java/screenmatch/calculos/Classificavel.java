@@ -1,4 +1,4 @@
-package br.com.alura.screenmatch.calculos;
+package br.com.java.screenmatch.calculos;
 
 public interface Classificavel {
     int getClassificacao();

@@ -1,10 +1,10 @@
-package br.com.alura.screenmatch.principal;
+package br.com.java.screenmatch.principal;
 
-import br.com.alura.screenmatch.calculos.CalculadoraDeTempo;
-import br.com.alura.screenmatch.calculos.FiltroRecomendacao;
-import br.com.alura.screenmatch.modelos.Episodio;
-import br.com.alura.screenmatch.modelos.Filme;
-import br.com.alura.screenmatch.modelos.Serie;
+import br.com.java.screenmatch.calculos.CalculadoraDeTempo;
+import br.com.java.screenmatch.calculos.FiltroRecomendacao;
+import br.com.java.screenmatch.modelos.Episodio;
+import br.com.java.screenmatch.modelos.Filme;
+import br.com.java.screenmatch.modelos.Serie;
 import org.jetbrains.annotations.NotNull;
 
 import java.util.ArrayList;

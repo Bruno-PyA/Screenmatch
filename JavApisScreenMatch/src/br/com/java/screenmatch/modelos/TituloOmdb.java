@@ -1,4 +1,4 @@
-package br.com.alura.screenmatch.modelos;
+package br.com.java.screenmatch.modelos;
 
 public record TituloOmdb(String title, String year, String runtime) {
 }
